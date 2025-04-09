@@ -29,5 +29,8 @@ Capture and analyze plaintext HTTP traffic (including login credentials) using W
 - Use a **VPN** on public networks.  
 
 ## **Files**  
-- `captures/http_login_capture.pcapng` – Sample Wireshark capture.  
-- `screenshots/http_credentials.png` – Exposed credentials in HTTP.  
+- `WireShark Packet Capture.pdf` – Full Report
+- `Original.pcapng` – Sample Wireshark capture.
+- `Capture.png` – Capturing and Analysis
+- `Website visited.png` – Visited Website (http://testphp.vulnweb.com/login.php)
+- `Results.png` – Exposed credentials in HTTP.  
