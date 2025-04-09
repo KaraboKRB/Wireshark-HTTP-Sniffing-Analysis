@@ -1,5 +1,3 @@
-# Wireshark-HTTP-Sniffing-Analysis
-
 # **Wireshark HTTP Packet Sniffing Analysis**  
 _A practical demonstration of intercepting unencrypted HTTP traffic._  
 
